@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kinopoisk/static/css/main.c8ab2038.css",
+    "main.js": "/kinopoisk/static/js/main.dbe38e47.js",
+    "static/media/dn4.jpg": "/kinopoisk/static/media/dn4.ca5f58c63d5c83dfcd50.jpg",
+    "static/media/begining3.jpg": "/kinopoisk/static/media/begining3.f402650c2ae1432083d9.jpg",
+    "static/media/witcher2.jpg": "/kinopoisk/static/media/witcher2.24576cd9c64d97e17cc1.jpg",
+    "static/media/GOT.jpg": "/kinopoisk/static/media/GOT.353cd0a5403e4e6af6bb.jpg",
+    "static/media/slick.svg": "/kinopoisk/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/kinopoisk/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/kinopoisk/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/kinopoisk/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/kinopoisk/index.html",
+    "main.c8ab2038.css.map": "/kinopoisk/static/css/main.c8ab2038.css.map",
+    "main.dbe38e47.js.map": "/kinopoisk/static/js/main.dbe38e47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8ab2038.css",
+    "static/js/main.dbe38e47.js"
+  ]
+}
