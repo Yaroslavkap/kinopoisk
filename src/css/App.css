@@ -202,7 +202,7 @@ body {
 }
 
 .film-item-place {
-    width: 20vmax;
+    /* width: 20vmax; */
     margin: 1rem 0.5rem;
 }
 
@@ -291,3 +291,9 @@ body {
 
 }
 
+@media (max-width: 700px) {
+    .film_item {
+      width: 26vw;
+      height: 40vh;
+    }
+  }

@@ -57,15 +57,15 @@ function Home() {
               </div>
             :
             <div>
-              {films[8] && <FilmsSlider films={films.filter((film) => film.genres[0].name === 'комедия' || film.genres[1].name == 'комедия')} title={"Комедии"}/>}
+              {/* {films[8] && <FilmsSlider films={films.filter((film) => film.genres[0].name === 'комедия' || film.genres[1].name == 'комедия')} title={"Комедии"}/>}
               {films[8] && <FilmsSlider films={films.filter((film) => film.genres[0].name === 'драма' || film.genres[1].name == 'драма')} title={"Драмы"}/>}
               {films[8] && <FilmsSlider films={films.filter((film) => film.genres[0].name === 'боевик' || film.genres[1].name == 'боевик')} title={"Боевики"}/>}
-              
+               */}
 
-              {/* <FilmsSlider films={films} title={"Боевики"}/>
+              <FilmsSlider films={films} title={"Боевики"}/>
               <FilmsSlider films={films} title={"Комедии"}/>
               <FilmsSlider films={films} title={"Фентези"}/>
-              <FilmsSlider films={films} title={"Приключения"}/> */}
+              <FilmsSlider films={films} title={"Приключения"}/>
             </div>
             }
 
